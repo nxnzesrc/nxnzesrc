@@ -4,9 +4,7 @@
 🌍 **Mediterranean**  
 ⚡ **Unnecessary and Special Projects**
 
-🖤 for the love of code
-
----
+> 🖤 for the love of code
 
 ## Unnecessary & Special Projects
 
