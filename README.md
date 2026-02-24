@@ -27,15 +27,7 @@ We are a network of independent software & technology specialists working togeth
 
 ### Unnecessary Projects
 
-- 🧾 **[bookie](https://bookie.tax)** (closed source) — Conquer the bookkeeping and accounting chaos of freelancing. Built because it shouldn't be this hard.
-- 📜 **ghist** — Minimalist gist management. No friction, no bloat.
-- 🛠️ **Unnecessary and Special Projects** — A developer organization focused on 100% unnecessary software. High intent, zero corporate noise.
+- 🤓 **[bookie](https://bookie.tax)** (closed source) — Conquer the bookkeeping and accounting chaos of freelancing. Built because it shouldn't be this hard.
+- 👻 **[ghist]([https://github.com/unnecessary](https://github.com/unnecessary-special-projects/ghist))** — Task management that lives in your repo.
 
-
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/[your-handle])
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-profile])
-[![GitHub](https://img.shields.io/badge/-Follow-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/[your-username])
 
