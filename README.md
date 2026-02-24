@@ -3,16 +3,7 @@
 
 🌍 **Mediterranean**  
 ⚡ **Unnecessary and Special Projects** 
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
-
-> for the love of code 🖤
+🖤 for the love of code
 
 ---
 
