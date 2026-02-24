@@ -2,7 +2,7 @@
 # nxnzesrc 
 
 🌍 **Mediterranean**  
-⚡ **Unnecessary and Special Projects** 
+⚡ **Unnecessary and Special Projects**
 🖤 for the love of code
 
 ---
