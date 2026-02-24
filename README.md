@@ -23,6 +23,7 @@ We are a network of independent software & technology specialists working togeth
 > Software for the love of it, without the bullshit. I build things that don't need to exist because most things that *do* exist are broken. 
 
 🌐 **[unnecessaryandspecialprojects.com](https://unnecessaryandspecialprojects.com)**
+
 📖 **[Why we are doing what we are doing](https://unnecessarythoughts.substack.com/p/why-were-working-on-unnecessary-and)**
 
 ### Unnecessary Projects
