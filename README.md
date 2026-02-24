@@ -10,12 +10,7 @@
 
 ## Unnecessary & Special Projects
 
-We are a network of independent software & technology specialists working together to develop true software designed for people, not users
-
-> Software for the love of it, without the bullshit. I build things that don't need to exist because most things that *do* exist are broken. 
-
-🌐 **[unnecessaryandspecialprojects.com](https://unnecessaryandspecialprojects.com)**
-
+Software for the love of it, without the bullshit.
 📖 **[Why we are doing what we are doing](https://unnecessarythoughts.substack.com/p/why-were-working-on-unnecessary-and)**
 
 ### Unnecessary Projects
