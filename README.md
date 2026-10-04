@@ -16,4 +16,6 @@ Software for the love of it, without the bullshit.
 - 🤓 **[bookie](https://bookie.tax)** — Conquer the bookkeeping and accounting chaos of freelancing.
 - 👻 **[ghist](https://github.com/unnecessary-special-projects/ghist)** — Task management that lives in your repo.
 
+### Unnecessary Setups
 
+- 🤖 **[codex-development-team](https://github.com/unnecessary-special-projects/codex-development-team)** - Configure Codex into your own multi-agent development team
